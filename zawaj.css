@@ -1,0 +1,62 @@
+body{
+	background: url(https://source.unsplash.com/3Oa0b0TF8tg);
+	background-position: center;
+	background-size: cover;
+	font-family: 'Cinzel', serif;
+  	color: black;
+}
+
+
+html,body{
+	height: 100%;
+}
+
+#content{
+	padding-top: 25%;
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1{
+	font-weight: 700;
+	color: white;
+	border-color: #4F562D;
+	font-size: 10em;
+}
+
+h3{
+	color: white;
+	font-weight: bold;
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+.navbar-default {
+    background-color: #D5DAE6;
+
+}
+
+.btn-default {
+    color: #4F562D;
+    background-color: #FFF;
+    border-color: #ccc;
+}
+
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-weight: 700;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #4F562D;
+    font-weight: 400;
+}
+
